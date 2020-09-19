@@ -25,7 +25,7 @@ const Home = () => {
                 <Text style={styles.buttonText}>COLETAR DADOS</Text>
                 <View style={styles.buttonIcon}>
                     <Text>
-                        <Icon name="chevron-right" color="#FFF" size="25"></Icon>
+                        <Icon name="chevron-right" color="#FFF" size={25}></Icon>
                     </Text>
                 </View>
             </RectButton>
